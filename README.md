@@ -8,4 +8,4 @@ API_KEY=`<Paste your API KEY>`
 
 Sign up for an account to get a free API key from https://coinmarketcap.com/api
 
-![Crypto Calculator](./screenshots/currencyConverter.png)
+<img src="./screenshots/currencyConverter.png" alt="drawing" width="400"/>
